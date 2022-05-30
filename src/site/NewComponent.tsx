@@ -43,4 +43,4 @@ const NewComponent = (props: NewComponentType) => {
                 ;
             };
 
-                export default NewComponent;
+export default NewComponent;
